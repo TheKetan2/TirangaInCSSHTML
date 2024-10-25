@@ -12,12 +12,12 @@ body {
   width: 500px;
   height: 205px;
   margin: auto;
+  border: 5px solid rgba(12, 0, 0, 0.2);
+  border-radius: 5px;
 }
 .orange {
   height: 66.66px;
   background-color: orange;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
 }
 .white {
   height: 66.66px;
@@ -28,8 +28,6 @@ body {
   height: 66.66px;
   border: 1px solid green;
   background-color: green;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
 }
 .chakra {
   display: flex;
@@ -123,4 +121,7 @@ body {
   height: 2px;
   background-color: darkblue;
   rotate: 165deg;
+}
+p {
+  margin-bottom: px;
 }
