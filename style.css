@@ -1,0 +1,117 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.orange{
+  width: 900px;
+  height: 200px;
+  border: 1px solid orange;
+  background-color: orange;
+}
+.white{
+  width: 900px;
+  height: 200px;
+  align-items: center;
+  background-color: white;
+}
+.green{
+  display: block;
+  width: 900px;
+  height: 200px;
+  border: 1px solid green;
+  background-color: green;
+}
+.chakra{
+  display: flex;
+  width: 195px;
+  height: 195px;
+  background-color: transparent;
+  border: 5px solid darkblue;
+  border-radius: 50%;
+  margin: 0 auto;
+  align-items: center;
+}
+.one{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+}
+.two{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 15deg;
+}
+.three{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 30deg;
+}
+.four{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 45deg;
+}
+.five{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 60deg;
+}
+.six{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 75deg;
+}
+.seven{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 90deg;
+}
+.eight{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 105deg;
+}
+.nine{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 120deg;
+}
+.ten{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 135deg;
+}
+.twelve{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 150deg;
+}
+.thirteen{
+  position: absolute;
+  width: 195px;
+  height: 5px;
+  background-color: darkblue;
+  rotate: 165deg;
+}
